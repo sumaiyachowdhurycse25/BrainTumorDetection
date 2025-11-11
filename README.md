@@ -14,5 +14,5 @@
   </div>
 <div align="center">
   <h2>Model Building</h2>
-  <img src="https://github.com/sumaiyachowdhurycse25/BrainTumorDetection/blob/master/Testing/notumor/Te-noTr_0000.jpg">
+  <img src="https://github.com/sumaiyachowdhurycse25/BrainTumorDetection/blob/master/Model%20Building.PNG">
 </div>
