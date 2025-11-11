@@ -1,6 +1,6 @@
 
 
-<div allign="center">
+<div align="center">
 
   <h1>Brain Tumor Detection</h1>
   
