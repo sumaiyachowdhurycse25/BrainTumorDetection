@@ -10,9 +10,6 @@
 
   <div align="center">
   <h2>Project Description</h2>
-    <p> This project focused on considering type, location of the tumor and grade 
-of the tumor for brain tumor detection. A convolutional neural network model have been 
-implemented on Magnetic Resonance Imaging. The four classifications are Meningioma, 
-Glioma, No Tumor and Pituitary.</p>
+  <p> This project focused on considering type, location of the tumor and grade of the tumor for brain tumor detection. A convolutional neural network model have been implemented on Magnetic Resonance Imaging. The four classifications are Meningioma, Glioma, No Tumor and Pituitary.</p>
   </div>
 
