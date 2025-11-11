@@ -16,3 +16,9 @@
   <h2>Model Building</h2>
   <img src="https://github.com/sumaiyachowdhurycse25/BrainTumorDetection/blob/master/Model%20Building.PNG">
 </div>
+<div align="center">
+  <h2>Skills Required</h2>
+  <b>Numpy</b>
+  <b>Pandas</b>
+</div>
+
