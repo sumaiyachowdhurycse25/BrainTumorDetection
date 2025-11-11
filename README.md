@@ -18,7 +18,7 @@
 </div>
 <div align="center">
   <h2>Skills Required</h2>
-  <b>Numpy</b>
-  <b>Pandas</b>
+  <p>Numpy</p>
+  <p>Pandas</p>
 </div>
 
