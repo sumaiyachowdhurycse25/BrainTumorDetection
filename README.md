@@ -18,7 +18,13 @@
 </div>
 <div align="center">
   <h2>Skills Required</h2>
+  <p>TensorFlow</p>
+  <p>Keras</p>
+  <p>OpenCV</p>
+  <p>Scikit-learn</p>
   <p>Numpy</p>
   <p>Pandas</p>
+  <p>Matplotlib</p>
+  <p>Seaborn</p>
 </div>
 
